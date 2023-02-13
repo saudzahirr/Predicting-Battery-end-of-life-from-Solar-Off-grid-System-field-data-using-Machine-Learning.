@@ -13,8 +13,10 @@ A pre-print of the publication that refers to this data may be found at [https:/
 ******************************************************************************************
 These data are copyright (c) 2021, BBOXX Ltd., The Chancellor, Masters and Scholars of the University of Oxford, and the 'Predicting battery end of life from solar off-grid system field data using machine learning' researchers. All rights reserved.
 
-This 'Predicting battery end of life from solar off-grid system field data using machine learning' data is made available under the Creative Commons Attribution-NonCommercial 4.0
-International License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This 'Predicting battery end of life from solar off-grid system field data using machine learning' data is made available under 
+a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
 
 THIS DATA IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
