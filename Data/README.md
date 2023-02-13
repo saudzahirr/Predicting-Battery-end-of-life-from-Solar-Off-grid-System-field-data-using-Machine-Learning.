@@ -4,7 +4,7 @@ A pre-print of the publication that refers to this data may be found at [https:/
 
 1. Telemetry data from 1027 BBOXX valve-regulated lead-acid battery systems in the field. These are split into 10 zip files, containing ~100 .npz (compressed python format) files each. Following download, the tool **zip_to_npy.py** may be run in Python to extract all the files. The resulting npy files may then be used for analysis. The telemetry data contains an average of ~600'000 data rows for each battery, where each row consists of a UNIX timestamp and then measured current (where negative current is charging), voltage and temperature readings. The recording frequency is non-uniform in time.
 
-2. Data from open circuit voltage (OCV) lab tests using a Biologic SP-150 potentiostat **GITT_OCV.mpt**. This data is used to determine the OCV @ 25 degC of the lead-acid battery used in the research, as described in the supplementary materials of the paper.
+2. Data from open circuit voltage (OCV) lab tests using a Biologic SP-150 potentiostat **[GITT_OCV.mpt](https://drive.google.com/file/d/1bd-ulknhgXEMC_Wdt7QK-KvXNOk6l4eo/view?usp=sharing)**. This data is used to determine the OCV @ 25 degC of the lead-acid battery used in the research, as described in the supplementary materials of the paper.
 
 3. Metadata for the field batteries. The columns in the file **meta_data.csv** consist of the battery UID, followed by the activation date, repair date, lifetime in days and a boolean flag indicating whether the battery in question entered repair. Note that if the flag is false, there is no repair date and the battery lifetime, in this case, is the date difference from the activation date to the final date in the datasample.
 
