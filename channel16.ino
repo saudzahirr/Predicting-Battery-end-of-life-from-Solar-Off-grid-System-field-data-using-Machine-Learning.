@@ -10,8 +10,8 @@ const int S1 = 9;
 const int S2 = 10;
 const int S3 = 11;
 const int EN = 12;
-const float adc = (5.0/1023.0);
-const float G = 8.0;
+const float adc = (3.3/4095.0);
+const float G = 47/9.8;
 const float R = 12;
 const int N = 16;
 
